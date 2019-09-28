@@ -1,3 +1,3 @@
 class Payment{
-    Intger id;
+    Integer id;
 }
